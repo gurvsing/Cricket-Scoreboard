@@ -1,0 +1,4 @@
+k=open('match1.txt','w')
+s='he is a gud boy'
+k.write(s)
+k.close()

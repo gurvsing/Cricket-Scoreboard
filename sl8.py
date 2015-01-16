@@ -1,0 +1,157 @@
+# -*- coding: utf-8 -*-
+
+# Form implementation generated from reading ui file 'sl8.ui'
+#
+# Created: Mon Apr 01 23:26:01 2013
+#      by: PyQt4 UI code generator 4.9.6
+#
+# WARNING! All changes made in this file will be lost!
+
+from PyQt4 import QtCore, QtGui
+
+try:
+    _fromUtf8 = QtCore.QString.fromUtf8
+except AttributeError:
+    def _fromUtf8(s):
+        return s
+
+try:
+    _encoding = QtGui.QApplication.UnicodeUTF8
+    def _translate(context, text, disambig):
+        return QtGui.QApplication.translate(context, text, disambig, _encoding)
+except AttributeError:
+    def _translate(context, text, disambig):
+        return QtGui.QApplication.translate(context, text, disambig)
+
+class Ui_MainWindow011(object):
+    def setupUi(self, MainWindow011):
+        MainWindow011.setObjectName(_fromUtf8("MainWindow011"))
+        MainWindow011.resize(640, 480)
+        icon = QtGui.QIcon()
+        icon.addPixmap(QtGui.QPixmap(_fromUtf8(":/new/Users/Gurvinder/Desktop/indian-cricket-logo.jpg")), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        MainWindow011.setWindowIcon(icon)
+        self.centralwidget = QtGui.QWidget(MainWindow011)
+        self.centralwidget.setObjectName(_fromUtf8("centralwidget"))
+        self.label = QtGui.QLabel(self.centralwidget)
+        self.label.setGeometry(QtCore.QRect(40, 70, 101, 41))
+        font = QtGui.QFont()
+        font.setPointSize(18)
+        font.setBold(True)
+        font.setWeight(75)
+        self.label.setFont(font)
+        self.label.setObjectName(_fromUtf8("label"))
+        self.label_2 = QtGui.QLabel(self.centralwidget)
+        self.label_2.setGeometry(QtCore.QRect(145, 70, 141, 41))
+        font = QtGui.QFont()
+        font.setPointSize(18)
+        font.setBold(True)
+        font.setWeight(75)
+        self.label_2.setFont(font)
+        self.label_2.setText(_fromUtf8(""))
+        self.label_2.setObjectName(_fromUtf8("label_2"))
+        self.label_3 = QtGui.QLabel(self.centralwidget)
+        self.label_3.setGeometry(QtCore.QRect(50, 160, 46, 13))
+        font = QtGui.QFont()
+        font.setPointSize(10)
+        font.setBold(True)
+        font.setWeight(75)
+        self.label_3.setFont(font)
+        self.label_3.setObjectName(_fromUtf8("label_3"))
+        self.label_4 = QtGui.QLabel(self.centralwidget)
+        self.label_4.setGeometry(QtCore.QRect(100, 160, 46, 13))
+        font = QtGui.QFont()
+        font.setPointSize(10)
+        font.setBold(True)
+        font.setWeight(75)
+        self.label_4.setFont(font)
+        self.label_4.setText(_fromUtf8(""))
+        self.label_4.setObjectName(_fromUtf8("label_4"))
+        self.label_5 = QtGui.QLabel(self.centralwidget)
+        self.label_5.setGeometry(QtCore.QRect(50, 200, 46, 13))
+        font = QtGui.QFont()
+        font.setPointSize(10)
+        font.setBold(True)
+        font.setWeight(75)
+        self.label_5.setFont(font)
+        self.label_5.setObjectName(_fromUtf8("label_5"))
+        self.label_6 = QtGui.QLabel(self.centralwidget)
+        self.label_6.setGeometry(QtCore.QRect(100, 200, 46, 13))
+        font = QtGui.QFont()
+        font.setPointSize(10)
+        font.setBold(True)
+        font.setWeight(75)
+        self.label_6.setFont(font)
+        self.label_6.setText(_fromUtf8(""))
+        self.label_6.setObjectName(_fromUtf8("label_6"))
+        self.label_7 = QtGui.QLabel(self.centralwidget)
+        self.label_7.setGeometry(QtCore.QRect(20, 290, 121, 21))
+        font = QtGui.QFont()
+        font.setPointSize(10)
+        font.setBold(True)
+        font.setWeight(75)
+        self.label_7.setFont(font)
+        self.label_7.setObjectName(_fromUtf8("label_7"))
+        self.label_8 = QtGui.QLabel(self.centralwidget)
+        self.label_8.setGeometry(QtCore.QRect(140, 310, 201, 21))
+        font = QtGui.QFont()
+        font.setPointSize(10)
+        font.setBold(True)
+        font.setWeight(75)
+        self.label_8.setFont(font)
+        self.label_8.setText(_fromUtf8(""))
+        self.label_8.setObjectName(_fromUtf8("label_8"))
+        self.label_9 = QtGui.QLabel(self.centralwidget)
+        self.label_9.setGeometry(QtCore.QRect(30, 10, 171, 41))
+        font = QtGui.QFont()
+        font.setPointSize(20)
+        font.setBold(True)
+        font.setWeight(75)
+        self.label_9.setFont(font)
+        self.label_9.setText(_fromUtf8(""))
+        self.label_9.setObjectName(_fromUtf8("label_9"))
+        self.textBrowser = QtGui.QTextBrowser(self.centralwidget)
+        self.textBrowser.setGeometry(QtCore.QRect(50, 310, 541, 91))
+        self.textBrowser.setStyleSheet(_fromUtf8("color: rgb(0, 52, 0);"))
+        self.textBrowser.setObjectName(_fromUtf8("textBrowser"))
+        self.comboBox = QtGui.QComboBox(self.centralwidget)
+        self.comboBox.setGeometry(QtCore.QRect(300, 270, 201, 22))
+        self.comboBox.setObjectName(_fromUtf8("comboBox"))
+        self.frame = QtGui.QFrame(self.centralwidget)
+        self.frame.setGeometry(QtCore.QRect(320, 40, 261, 191))
+        self.frame.setStyleSheet(_fromUtf8("background-image: url(:/pre/images.jpg);"))
+        self.frame.setFrameShape(QtGui.QFrame.StyledPanel)
+        self.frame.setFrameShadow(QtGui.QFrame.Raised)
+        self.frame.setObjectName(_fromUtf8("frame"))
+        self.pushButton = QtGui.QPushButton(self.centralwidget)
+        self.pushButton.setGeometry(QtCore.QRect(480, 410, 75, 23))
+        self.pushButton.setObjectName(_fromUtf8("pushButton"))
+        self.label_10 = QtGui.QLabel(self.centralwidget)
+        self.label_10.setGeometry(QtCore.QRect(100, 270, 151, 16))
+        font = QtGui.QFont()
+        font.setPointSize(10)
+        font.setBold(True)
+        font.setWeight(75)
+        self.label_10.setFont(font)
+        self.label_10.setObjectName(_fromUtf8("label_10"))
+        MainWindow011.setCentralWidget(self.centralwidget)
+        self.menubar = QtGui.QMenuBar(MainWindow011)
+        self.menubar.setGeometry(QtCore.QRect(0, 0, 640, 21))
+        self.menubar.setObjectName(_fromUtf8("menubar"))
+        MainWindow011.setMenuBar(self.menubar)
+        self.statusbar = QtGui.QStatusBar(MainWindow011)
+        self.statusbar.setObjectName(_fromUtf8("statusbar"))
+        MainWindow011.setStatusBar(self.statusbar)
+
+        self.retranslateUi(MainWindow011)
+        QtCore.QMetaObject.connectSlotsByName(MainWindow011)
+
+    def retranslateUi(self, MainWindow011):
+        MainWindow011.setWindowTitle(_translate("MainWindow011", "CRICKET APP", None))
+        self.label.setText(_translate("MainWindow011", "Score", None))
+        self.label_3.setText(_translate("MainWindow011", "Over", None))
+        self.label_5.setText(_translate("MainWindow011", "Extras", None))
+        self.label_7.setText(_translate("MainWindow011", "WICKET taken by", None))
+        self.pushButton.setText(_translate("MainWindow011", "Continue", None))
+        self.label_10.setText(_translate("MainWindow011", "Next Batsman", None))
+
+import pro

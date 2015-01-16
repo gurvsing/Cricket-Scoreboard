@@ -1,0 +1,15 @@
+Mahendra Singh Dhoni;0
+Virat Kolhi;0
+Yuvraj Singh;2
+Virender Sehwag;0
+Rohit Sharma;0
+Suresh Raina;2
+Gautam Gambhir;0
+Shikhar Dhawan;0
+Harbhajan Singh;1
+Zaheer Khan;1
+Ravichandra Ashwin;2
+Ravindra Jadeja;2
+Ishant Sharma;1
+Cheteshwar Pujara;0
+Bhuvneshwar Kumar;1

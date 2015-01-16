@@ -1,0 +1,47 @@
+from PyQt4 import QtCore, QtGui
+import a1,a2
+import sys
+
+d=0
+def aap():
+    
+    Form.show()
+    MainWindow.close()
+    
+def bk():
+    
+    MainWindow.show()
+    Form.close()
+    
+def cal():
+    t=2
+    x=int(ui.lineEdit01.text())
+    y=int(ui.lineEdit002.text())
+    z=x+y
+    ui.lineEdit03.setText(str(z))
+    ui.label01.setText(str(z))
+    
+
+if __name__ == "__main__":
+   
+    k=0
+    app = QtGui.QApplication(sys.argv)
+    MainWindow = QtGui.QMainWindow()
+    ui =a1.Ui_MainWindow()
+    ui.setupUi(MainWindow)
+    MainWindow.show()
+    Form = QtGui.QWidget()
+    obj2= a2.Ui_Form()
+    obj2.setupUi(Form)
+    app.connect(ui.pushButton01,QtCore.SIGNAL("clicked()"),aap)
+    
+    app.connect(obj2.pushButton,QtCore.SIGNAL("clicked()"),bk)
+        
+    #if ui.pushBotton01 is QtCore.SIGNAL("clicked()"):
+        
+    app.connect(ui.lineEdit01, QtCore.SIGNAL("textChanged()"),ui.label01.setText)
+    app.connect(ui.radioButton01,QtCore.SIGNAL("clicked()"),cal)
+        
+    #app.connect(ui.pushButton,QtCore.SIGNAL("clicked()"),ui.aapd)    
+    sys.exit(app.exec_())
+

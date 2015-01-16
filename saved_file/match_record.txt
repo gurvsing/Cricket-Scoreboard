@@ -1,0 +1,181 @@
+
+That was awsome match betwen -- sadfs V/S afaf --. The result was that sadfs WON the match by ->4 runs 
+
+----------------------------------------------------------------------------------------------------
+
+Team 1 ->  sadfs 	10/0 (1.3)  extras->0
+Team 2 ->  afaf 	6/0 (0.3)  extras->0
+
+----------------------------------------------------------------------------------------------------
+
+sadfs 	 10/0( 1.3)	 extra->0
+ 
+Yuvraj Singh	<....not out.....>		5(7)
+Rohit Sharma	<....not out.....>		5(2)
+Rohit Sharma			0(0)
+Zaheer Khan			0(0)
+Ishant Sharma			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+WICKET FALL ->
+
+
+----------------------------------------------------------------------------------------------------
+
+afaf 	 10/0( 0.3)	 extra->0
+ 
+Mahendra Singh Dhoni	<....not out.....>		6(3)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+Mahendra Singh Dhoni			0(0)
+WICKET FALL ->
+
+
+----------------------------------------------------------------------------------------------------
+
+ 
+
+TEAM -> sadfs.......PLAYER NAME-> Yuvraj Singh..........ATTRIBUTE-> All rounder
+BATTING STATS:-
+	RUN->5	BALL->7	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> sadfs.......PLAYER NAME-> Rohit Sharma..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->5	BALL->2	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> sadfs.......PLAYER NAME-> Rohit Sharma..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> sadfs.......PLAYER NAME-> Zaheer Khan..........ATTRIBUTE-> Bowler
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0.3	RUN->6	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> sadfs.......PLAYER NAME-> Ishant Sharma..........ATTRIBUTE-> Bowler
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> sadfs.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> sadfs.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> sadfs.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> sadfs.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> sadfs.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> sadfs.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+----------------------------------------------------------------------------------------------------
+ 
+
+TEAM -> afaf.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->6	BALL->3	FOURS->0	SIXES->1
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> afaf.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> afaf.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> afaf.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> afaf.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> afaf.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->1.0	RUN->2	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> afaf.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> afaf.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> afaf.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> afaf.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0	RUN->0	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0
+
+TEAM -> afaf.......PLAYER NAME-> Mahendra Singh Dhoni..........ATTRIBUTE-> Batsman
+BATTING STATS:-
+	RUN->0	BALL->0	FOURS->0	SIXES->0
+BOWLING STATS:-
+	OVER->0.3	RUN->8	MAIDEN->0	WICKET->0	WIDE BALLS->0	NO BALLS->0

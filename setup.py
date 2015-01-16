@@ -1,0 +1,3 @@
+from distutils.core import setup
+import py2exe
+setup(windows=[{"script":"Latest_cri_pro\main_arena.py"}], options={"py2exe":{"includes":["sip"]}},data_files=[("new_folder",["Latest_cri_pro\start.py","Latest_cri_pro\fall.py","Latest_cri_pro\last.py","Latest_cri_pro\pro.py","Latest_cri_pro\Main.py","Latest_cri_pro\sl2.py","Latest_cri_pro\sl3.py","Latest_cri_pro\sl4.py","Latest_cri_pro\sl5.py","Latest_cri_pro\sl6.py","Latest_cri_pro\sl7.py","Latest_cri_pro\sl8.py","Latest_cri_pro\sl9.py","Latest_cri_pro\sl10.py","Latest_cri_pro\dev.py","Latest_cri_pro\sl11.py","Latest_cri_pro\sl12.py","Latest_cri_pro\declare_que.py","Latest_cri_pro\playing_elev1.py","Latest_cri_pro\playing_elev2.py"])])
