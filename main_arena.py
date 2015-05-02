@@ -1154,7 +1154,7 @@ def display_Main(t1,t2):
     if team_batting==team1_name:
         Main1.label_19.setText(str(team2_name)+' have not yet batted ')
     else:
-        Main1.label_19.setText(str(team1_name)+' -> '+str(total_run1)+'/'+str(total_wicket1)+'('+str(over1)+')  '+str(team2_name)+' Need '+str(total_run1-total_run)+' run more to win.')
+        Main1.label_19.setText(str(team1_name)+' -> '+str(total_run1)+'/'+str(total_wicket1)+'('+str(over1)+')  '+str(team2_name)+' Need '+str(total_run1-total_run+1)+' run more to win.')
     Main1.label_4.setText(t2[current_bowler][2][0]+' '+str(t2[current_bowler][1][0])+'-'+str(t2[current_bowler][1][1])+'-'+str(t2[current_bowler][1][3]))
     Main1.label_15.setText(team_batting)
     Main1.label_5.setText(t1[current_batsman1][2][0]+' '+str(t1[current_batsman1][0][0])+'('+str(t1[current_batsman1][0][1])+')')

@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'Main1.02.ui'
 #
-# Created: Sat Jan 25 10:48:08 2014
+# Created: Thu Jan 22 21:12:23 2015
 #      by: PyQt4 UI code generator 4.10.3
 #
 # WARNING! All changes made in this file will be lost!
@@ -36,7 +36,7 @@ class Ui_MainWindow007(object):
         self.centralwidget = QtGui.QWidget(MainWindow007)
         self.centralwidget.setObjectName(_fromUtf8("centralwidget"))
         self.label = QtGui.QLabel(self.centralwidget)
-        self.label.setGeometry(QtCore.QRect(340, 0, 281, 51))
+        self.label.setGeometry(QtCore.QRect(470, 0, 201, 51))
         font = QtGui.QFont()
         font.setFamily(_fromUtf8("Lucida Calligraphy"))
         font.setPointSize(22)
@@ -342,7 +342,7 @@ class Ui_MainWindow007(object):
         self.label_21.setObjectName(_fromUtf8("label_21"))
         MainWindow007.setCentralWidget(self.centralwidget)
         self.menubar = QtGui.QMenuBar(MainWindow007)
-        self.menubar.setGeometry(QtCore.QRect(0, 0, 1349, 21))
+        self.menubar.setGeometry(QtCore.QRect(0, 0, 1349, 22))
         self.menubar.setObjectName(_fromUtf8("menubar"))
         MainWindow007.setMenuBar(self.menubar)
         self.statusbar = QtGui.QStatusBar(MainWindow007)
@@ -354,7 +354,7 @@ class Ui_MainWindow007(object):
 
     def retranslateUi(self, MainWindow007):
         MainWindow007.setWindowTitle(_translate("MainWindow007", "CRICKET APP", None))
-        self.label.setText(_translate("MainWindow007", "M.M.N.C.T 2014", None))
+        self.label.setText(_translate("MainWindow007", "M.M.N.C.T", None))
         self.label_7.setText(_translate("MainWindow007", "EXTRAS", None))
         self.label_9.setText(_translate("MainWindow007", "Strike", None))
         self.label_10.setText(_translate("MainWindow007", "Non Strike", None))
@@ -402,4 +402,4 @@ class Ui_MainWindow007(object):
         self.pushButton_4.setText(_translate("MainWindow007", "Back", None))
         self.label_21.setText(_translate("MainWindow007", "Developed By -> Gurvinder Singh", None))
 
-import pro2
+
